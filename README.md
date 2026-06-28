@@ -17,7 +17,7 @@ Este projeto é uma aplicação de linha de comando desenvolvida em Java para o 
 ## 🛠️ Tecnologias Utilizadas
 
 * **Java 17+**
-* **API `java.time**` (para manipulação de datas e períodos)
+* **API** `java.time**` (para manipulação de datas e períodos)
 * **Collections API** (`ArrayList`)
 * **Git & GitHub** para versionamento
 
